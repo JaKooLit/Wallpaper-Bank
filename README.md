@@ -1,4 +1,4 @@
-#### A wallpaper bank that will be offered to download when copying Hyprland-Dots
+#### A wallpaper bank that will be offered to download when copying Hyprland-Dots. If you are using my dots, place it at ~/Pictures/wallpapers/
 
 
 ### 🎏 These wallpapers are not mine. All credits goes to those who have created / photographed these nice wallpapers 
